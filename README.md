@@ -1,2 +1,1 @@
-# Python
-Ahoj HInku, já mám rád děti
+Ahoj HInku, máš rád černé děti?
